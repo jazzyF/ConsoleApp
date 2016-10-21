@@ -1,0 +1,7 @@
+Write a console application in Java:
+    * Take as input the path to a file containing one integer per line.
+    * For each integer in the file, output to the console a comma-delimited list of the integer's prime factors.
+    * The list of integers on each line of the output should multiply to produce the input integer.
+    * Although this is an exercise, code as if it were going into production use.
+    * Zip your source code
+    * If you think of any other questions, make an assumption and document it in your code.
